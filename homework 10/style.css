@@ -1,0 +1,25 @@
+* {
+    box-sizing: border-box;
+}
+h2 {
+    font-size: 30px;
+}
+p {
+    font-size: 20px;
+}
+.img {
+    text-align: center;
+}
+.txt1 {
+    float: right;
+    color: 5076FF;
+}
+.div {
+    background-color: DCDCDC;
+    height: auto;
+    width: 562px;
+    margin-left: 30%;
+    margin-top: 3%;
+    padding: 40px;
+    border-radius: 20px;
+}
